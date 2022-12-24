@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Waterside Farm Campsite 
+         Waterside House Campsite 
         </a>
 <br></br>
         <div className="google-map-code">
